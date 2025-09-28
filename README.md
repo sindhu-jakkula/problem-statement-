@@ -15,7 +15,8 @@ Runtime: JavaScript (MERN stack)
 Contribution: [Sindhu] built the Marketplace UI/Comparison;
 [Sharmila] developed the Backend APIs;
 [ HemaHarshitha] implemented the Dealership Dashboard;
-[Divya mahalakshmi] coded the Financial Calculators/Search;
+[Divya mahalakshmi] coded the Financial Calculators/Search;and
+[Bhuvaneswari] managed Database/Deployment and Testing.
 
 vahanbazarppt:https://docs.google.com/presentation/d/1cLRZrT2dI2q8kCC9dRzGN2KygwfVOCP6/edit?usp=drive_link&ouid=108760949702573970787&rtpof=true&sd=true
-and [Bhuvaneswari] managed Database/Deployment and Testing.
+
